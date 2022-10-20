@@ -1,0 +1,14 @@
+img{
+    border-radius: 100px;
+    margin: auto;
+    display: block;
+    margin-top: 40px; 
+}
+
+.kotak{
+    width: 200px;
+    height: 200px;
+    border: 3px solid black;
+    margin: 20px auto;
+    border-radius: 30%;
+}
